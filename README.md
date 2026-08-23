@@ -39,8 +39,12 @@
 | 16 | 摩根解经丛卷·希伯来书 | 坎伯·摩根 (G. Campbell Morgan) | PDF | [《摩根解经丛卷·希伯来书》- 坎伯·摩根.pdf](《摩根解经丛卷·希伯来书》-%20坎伯·摩根.pdf) |
 | 17 | 希伯来书注释 | 约翰·加尔文 (John Calvin) | PDF | [《希伯来书注释》- 加尔文.pdf](《希伯来书注释》-%20加尔文.pdf) |
 
+除两本**圣经注释**外，每本已写 [简介与目录](guides/README.md)（依据出版社 / CCEL / 作者官网核对）。
+
 ## 目录
 
+- [已收录书的简介与目录](guides/README.md)
+- [脚本说明（书单 / 生成导读）](scripts/README.md)
 - [已故经典神学家（Historical Theologians）](#已故经典神学家)
 - [当代神学家与牧师（Contemporary Authors）](#当代神学家与牧师)
 - [系统神学与教义（Systematic Theology）](#系统神学与教义)

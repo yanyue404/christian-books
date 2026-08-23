@@ -7,6 +7,11 @@ desktop.ini
 .vscode/
 .idea/
 
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
 # Temp files
 *.tmp
 ~$*
