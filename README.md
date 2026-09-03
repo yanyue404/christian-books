@@ -19,31 +19,61 @@
 
 > 文件命名规范：`《书名》- 作者.pdf/epub`
 
-| # | 书名 | 作者 | 格式 | 文件 |
-|---|------|------|------|------|
-| 1 | 基督教要义 | 约翰·加尔文 (John Calvin) | PDF | [《基督教要义》- 加尔文.pdf](《基督教要义》-%20加尔文.pdf) |
-| 2 | 天路历程 | 约翰·班扬 (John Bunyan) | EPUB | [《天路历程》- 约翰·班扬.epub](《天路历程》-%20约翰·班扬.epub) |
-| 3 | 宗教情操真伪辨 | 乔纳森·爱德华兹 (Jonathan Edwards) | PDF | [《宗教情操真伪辨》- 爱德华兹.pdf](《宗教情操真伪辨》-%20爱德华兹.pdf) |
-| 4 | 认识神 | 巴刻 (J.I. Packer) | PDF | [《认识神》- 巴刻.pdf](《认识神》-%20巴刻.pdf) |
-| 5 | 至高喜乐的传承 | 约翰·派伯 (John Piper) | PDF | [《至高喜乐的传承》- 约翰·派伯.pdf](《至高喜乐的传承》-%20约翰·派伯.pdf) |
-| 6 | 渴慕神 | 陶恕 (A.W. Tozer) | PDF | [《渴慕神》- 陶恕.pdf](《渴慕神》-%20陶恕.pdf) |
-| 7 | 信靠神：哪怕风雨如磐 | 毕哲思 (Jerry Bridges) | PDF | [《信靠神：哪怕风雨如磐》- 毕哲思.pdf](《信靠神：哪怕风雨如磐》-%20毕哲思.pdf) |
-| 8 | 恩典作王 | 毕哲思 (Jerry Bridges) | PDF | [《恩典作王》- 毕哲思.pdf](《恩典作王》-%20毕哲思.pdf) |
-| 9 | 魔鬼家书 | C.S. 路易斯 (C.S. Lewis) | PDF | [《魔鬼家书》- C.S.路易斯.pdf](《魔鬼家书》-%20C.S.路易斯.pdf) |
-| 10 | 勿忘死：通往永生盼望的惊人道路 | 马修·麦克劳 (Matthew McCullough) | PDF | [《勿忘死：通往永生盼望的惊人道路》- 马修·麦克劳.pdf](《勿忘死：通往永生盼望的惊人道路》-%20马修·麦克劳.pdf) |
-| 11 | 大阅读家 | 托尼·莱因克 (Tony Reinke) | PDF | [《大阅读家》- 托尼·莱因克.pdf](《大阅读家》-%20托尼·莱因克.pdf) |
-| 12 | 婚姻治愈指南 | 保罗·区普 (Paul David Tripp) | PDF | [《婚姻治愈指南》- 保罗·区普.pdf](《婚姻治愈指南》-%20保罗·区普.pdf) |
-| 13 | 父母的责任 | J.C. 莱尔 (J.C. Ryle) | PDF | [《父母的责任》- 莱尔.pdf](《父母的责任》-%20莱尔.pdf) |
-| 14 | 圣灵论 | 约翰·欧文 (John Owen) | PDF | [《圣灵论》- 约翰·欧文.pdf](《圣灵论》-%20约翰·欧文.pdf) |
-| 15 | 圣灵论（繁体） | 约翰·欧文 (John Owen) | PDF | [《圣灵论（繁体）》- 约翰·欧文.pdf](《圣灵论（繁体）》-%20约翰·欧文.pdf) |
-| 16 | 摩根解经丛卷·希伯来书 | 坎伯·摩根 (G. Campbell Morgan) | PDF | [《摩根解经丛卷·希伯来书》- 坎伯·摩根.pdf](《摩根解经丛卷·希伯来书》-%20坎伯·摩根.pdf) |
-| 17 | 希伯来书注释 | 约翰·加尔文 (John Calvin) | PDF | [《希伯来书注释》- 加尔文.pdf](《希伯来书注释》-%20加尔文.pdf) |
+| # | 书名 | 作者 | 格式 | 文件 | 导读 |
+|---|------|------|------|------|------|
+| 1 | 基督教要义 | 约翰·加尔文 (John Calvin) | PDF | [下载](《基督教要义》-%20加尔文.pdf) | [简介与目录](guides/基督教要义.md) |
+| 2 | 天路历程 | 约翰·班扬 (John Bunyan) | EPUB | [下载](《天路历程》-%20约翰·班扬.epub) | [简介与目录](guides/天路历程.md) |
+| 3 | 宗教情操真伪辨 | 乔纳森·爱德华兹 (Jonathan Edwards) | PDF | [下载](《宗教情操真伪辨》-%20爱德华兹.pdf) | [简介与目录](guides/宗教情操真伪辨.md) |
+| 4 | 认识神 | 巴刻 (J.I. Packer) | PDF | [下载](《认识神》-%20巴刻.pdf) | [简介与目录](guides/认识神.md) |
+| 5 | 至高喜乐的传承 | 约翰·派伯 (John Piper) | PDF | [下载](《至高喜乐的传承》-%20约翰·派伯.pdf) | [简介与目录](guides/至高喜乐的传承.md) |
+| 6 | 渴慕神 | 陶恕 (A.W. Tozer) | PDF | [下载](《渴慕神》-%20陶恕.pdf) | [简介与目录](guides/渴慕神.md) |
+| 7 | 信靠神：哪怕风雨如磐 | 毕哲思 (Jerry Bridges) | PDF | [下载](《信靠神：哪怕风雨如磐》-%20毕哲思.pdf) | [简介与目录](guides/信靠神.md) |
+| 8 | 恩典作王 | 毕哲思 (Jerry Bridges) | PDF | [下载](《恩典作王》-%20毕哲思.pdf) | [简介与目录](guides/恩典作王.md) |
+| 9 | 魔鬼家书 | C.S. 路易斯 (C.S. Lewis) | PDF | [下载](《魔鬼家书》-%20C.S.路易斯.pdf) | [简介与目录](guides/魔鬼家书.md) |
+| 10 | 返璞归真 | C.S. 路易斯 (C.S. Lewis) | PDF | [下载](《返璞归真》-%20C.S.路易斯.pdf) | [简介与目录](guides/返璞归真.md) |
+| 11 | 勿忘死：通往永生盼望的惊人道路 | 马修·麦克劳 (Matthew McCullough) | PDF | [下载](《勿忘死：通往永生盼望的惊人道路》-%20马修·麦克劳.pdf) | [简介与目录](guides/勿忘死.md) |
+| 12 | 大阅读家 | 托尼·莱因克 (Tony Reinke) | PDF | [下载](《大阅读家》-%20托尼·莱因克.pdf) | [简介与目录](guides/大阅读家.md) |
+| 13 | 婚姻治愈指南 | 保罗·区普 (Paul David Tripp) | PDF | [下载](《婚姻治愈指南》-%20保罗·区普.pdf) | [简介与目录](guides/婚姻治愈指南.md) |
+| 14 | 父母的责任 | J.C. 莱尔 (J.C. Ryle) | PDF | [下载](《父母的责任》-%20莱尔.pdf) | [简介与目录](guides/父母的责任.md) |
+| 15 | 圣灵论 | 约翰·欧文 (John Owen) | PDF | [下载](《圣灵论》-%20约翰·欧文.pdf) | [简介与目录](guides/圣灵论.md) |
+| 16 | 圣灵论（繁体） | 约翰·欧文 (John Owen) | PDF | [下载](《圣灵论（繁体）》-%20约翰·欧文.pdf) | 同 [圣灵论](guides/圣灵论.md) |
+| 17 | 摩根解经丛卷·希伯来书 | 坎伯·摩根 (G. Campbell Morgan) | PDF | [下载](《摩根解经丛卷·希伯来书》-%20坎伯·摩根.pdf) | （解经书，不写导读） |
+| 18 | 希伯来书注释 | 约翰·加尔文 (John Calvin) | PDF | [下载](《希伯来书注释》-%20加尔文.pdf) | （解经书，不写导读） |
 
-除两本**圣经注释**外，每本已写 [简介与目录](guides/README.md)（依据出版社 / CCEL / 作者官网核对）。
+## 书籍简介与目录（guides）
+
+每本书的**简介、目录、资料依据**都在 [`guides/`](guides/README.md)。除两本圣经注释外，上表电子书均已整理；下列推荐书仓库里暂无电子书，也已写导读，可从这里进入：
+
+| 书名 | 作者 | 导读 |
+|------|------|------|
+| 忏悔录 | 奥古斯丁 | [guides/忏悔录.md](guides/忏悔录.md) |
+| 上帝之城 | 奥古斯丁 | [guides/上帝之城.md](guides/上帝之城.md) |
+| 爱与爱的果实 | 约拿单·爱德华兹 | [guides/爱与爱的果实.md](guides/爱与爱的果实.md) |
+| 压伤的芦苇 | 薛伯斯 | [guides/压伤的芦苇.md](guides/压伤的芦苇.md) |
+| 福音的荣耀盛宴 | 薛伯斯 | [guides/福音的荣耀盛宴.md](guides/福音的荣耀盛宴.md) |
+| 保守你心 | 约翰·弗拉维尔 | [guides/保守你心.md](guides/保守你心.md) |
+| 得胜的祷告：什么拦阻了它？ | 慕迪 | [guides/得胜的祷告.md](guides/得胜的祷告.md) |
+| 因信称义 | 约翰·欧文 | [guides/因信称义.md](guides/因信称义.md) |
+| 圣洁 | 莱尔 | [guides/圣洁.md](guides/圣洁.md) |
+| 别有洞天 | 雅各・瑟尼 | [guides/别有洞天.md](guides/别有洞天.md) |
+| 救赎：它的意义及重要性 | 莱昂·莫里斯 | [guides/救赎.md](guides/救赎.md) |
+| 属灵生命的动力 | 理查德·洛普雷斯 | [guides/属灵生命的动力.md](guides/属灵生命的动力.md) |
+| 柔和谦卑 | 戴恩·奥特伦 | [guides/柔和谦卑.md](guides/柔和谦卑.md) |
+| 属灵的真义 | 薛华 | [guides/属灵的真义.md](guides/属灵的真义.md) |
+| 人之废 | C. S. 路易斯 | [guides/人之废.md](guides/人之废.md) |
+| 荣耀之重 | C. S. 路易斯 | [guides/荣耀之重.md](guides/荣耀之重.md) |
+| 稀世珍宝 | 耶利米·巴罗夫 | [guides/稀世珍宝.md](guides/稀世珍宝.md) |
+| 殉道史 | 约翰·福克斯 | [guides/殉道史.md](guides/殉道史.md) |
+| 普世宣教手册 | 庄斯顿 / 万迪克 | [guides/普世宣教手册.md](guides/普世宣教手册.md) |
+| 我真的是基督徒吗？ | 迈克·麦金利 | [guides/我真的是基督徒吗.md](guides/我真的是基督徒吗.md) |
+
+完整索引见 [guides/README.md](guides/README.md)。
 
 ## 目录
 
-- [已收录书的简介与目录](guides/README.md)
+- [本仓库已收录电子书](#-本仓库已收录电子书)
+- [书籍简介与目录（guides）](#书籍简介与目录guides)
+- [guides 全目录](guides/README.md)
 - [脚本说明（书单 / 生成导读）](scripts/README.md)
 - [已故经典神学家（Historical Theologians）](#已故经典神学家)
 - [当代神学家与牧师（Contemporary Authors）](#当代神学家与牧师)
@@ -57,9 +87,14 @@
 
 ## 已故经典神学家
 
+### 希波的奥古斯丁 (Augustine of Hippo, 354–430)
+
+- **《忏悔录》（Confessions）** —— 认罪与称颂上帝的属灵自传 📖 [导读](guides/忏悔录.md)
+- **《上帝之城》（The City of God）** —— 两座城的起源、历程与结局 📖 [导读](guides/上帝之城.md)
+
 ### 约翰·加尔文 (John Calvin, 1509–1564)
 
-- **《基督教要义》（Institutes of the Christian Religion）** —— 改革宗神学的奠基之作，必读！ 📥 [本仓库下载](《基督教要义》-%20加尔文.pdf)
+- **《基督教要义》（Institutes of the Christian Religion）** —— 改革宗神学的奠基之作，必读！ 📥 [本仓库下载](《基督教要义》-%20加尔文.pdf) · 📖 [导读](guides/基督教要义.md)
 - **《希伯来书注释》（Commentary on Hebrews）** 📥 [本仓库下载](《希伯来书注释》-%20加尔文.pdf)
 - 加尔文《圣经注释》（Commentaries on the Bible，多卷）
 
@@ -70,13 +105,15 @@
 
 ### 乔纳森·爱德华兹 (Jonathan Edwards, 1703–1758)
 
-- **《宗教情感》（Religious Affections）** —— 真假敬虔的辨别 📥 [本仓库下载](《宗教情操真伪辨》-%20爱德华兹.pdf)
+- **《宗教情感》（Religious Affections）** —— 真假敬虔的辨别 📥 [本仓库下载](《宗教情操真伪辨》-%20爱德华兹.pdf) · 📖 [导读](guides/宗教情操真伪辨.md)
+- **《爱与爱的果实》（Charity and Its Fruits）** —— 林前十三章十六篇讲章 📖 [导读](guides/爱与爱的果实.md)
 - **《论上帝创造世界之目的》（The End for Which God Created the World）**
 - **《罪人在愤怒上帝手中的讲章》（Sinners in the Hands of an Angry God）**
 
 ### 约翰·欧文 (John Owen, 1616–1683)
 
-- **《圣灵论》（Pneumatologia / A Discourse Concerning the Holy Spirit）** —— 清教徒圣灵神学的巅峰之作 📥 [简体下载](《圣灵论》-%20约翰·欧文.pdf) | [繁体下载](《圣灵论（繁体）》-%20约翰·欧文.pdf)
+- **《圣灵论》（Pneumatologia / A Discourse Concerning the Holy Spirit）** —— 清教徒圣灵神学的巅峰之作 📥 [简体下载](《圣灵论》-%20约翰·欧文.pdf) | [繁体下载](《圣灵论（繁体）》-%20约翰·欧文.pdf) · 📖 [导读](guides/圣灵论.md)
+- **《因信称义》（The Doctrine of Justification by Faith）** 📖 [导读](guides/因信称义.md)
 - **《基督的荣耀》（The Glory of Christ）**
 - **《对罪的治死》（The Mortification of Sin）** —— 经典敬虔之作
 - **《死亡之死》（The Death of Death in the Death of Christ）** —— 论有限代赎
@@ -96,12 +133,15 @@
 
 ### J.C. 莱尔 (J.C. Ryle, 1816–1900)
 
-- **《圣洁》（Holiness）** —— 论成圣的经典之作
-- **《父母的责任》（The Duties of Parents）** —— 敬虔养育儿女的17条忠告 📥 [本仓库下载](《父母的责任》-%20莱尔.pdf)
+- **《圣洁》（Holiness）** —— 论成圣的经典之作 📖 [导读](guides/圣洁.md)
+- **《父母的责任》（The Duties of Parents）** —— 敬虔养育儿女的17条忠告 📥 [本仓库下载](《父母的责任》-%20莱尔.pdf) · 📖 [导读](guides/父母的责任.md)
 
 其他经典作者推荐：
 
-- **理查德·西布斯 (Richard Sibbes)**：《压伤的芦苇》（The Bruised Reed）
+- **理查德·薛伯斯 (Richard Sibbes)**：《压伤的芦苇》📖 [导读](guides/压伤的芦苇.md)、《福音的荣耀盛宴》📖 [导读](guides/福音的荣耀盛宴.md)
+- **约翰·弗拉维尔 (John Flavel)**：《保守你心》📖 [导读](guides/保守你心.md)
+- **耶利米·巴罗夫 (Jeremiah Burroughs)**：《稀世珍宝》📖 [导读](guides/稀世珍宝.md)
+- **约翰·福克斯 (John Foxe)**：《殉道史》📖 [导读](guides/殉道史.md)
 - **斯蒂芬·查诺克 (Stephen Charnock)**：《上帝的存在与属性》
 
 ## 当代神学家与牧师
@@ -143,8 +183,10 @@
 
 ### C.S. 路易斯 (C.S. Lewis, 1898–1963)
 
-- **《魔鬼家书》（The Screwtape Letters）** —— 以魔鬼视角揭示属灵争战 📥 [本仓库下载](《魔鬼家书》-%20C.S.路易斯.pdf)
-- **《返璞归真》（Mere Christianity）**
+- **《魔鬼家书》（The Screwtape Letters）** —— 以魔鬼视角揭示属灵争战 📥 [本仓库下载](《魔鬼家书》-%20C.S.路易斯.pdf) · 📖 [导读](guides/魔鬼家书.md)
+- **《返璞归真》（Mere Christianity）** —— 各个时代基督徒共同持守的信仰 📥 [本仓库下载](《返璞归真》-%20C.S.路易斯.pdf) · 📖 [导读](guides/返璞归真.md)
+- **《人之废》（The Abolition of Man）** 📖 [导读](guides/人之废.md)
+- **《荣耀之重》（The Weight of Glory）** 📖 [导读](guides/荣耀之重.md)
 
 ### 保罗·区普 (Paul David Tripp)
 
@@ -161,6 +203,11 @@
 - **提姆·凯勒 (Tim Keller)**：《为何是上帝？》（The Reason for God）、《中心教会》（Center Church）
 - **韦恩·格鲁德姆 (Wayne Grudem)**：《系统神学》（Systematic Theology）—— 清晰易懂的入门系统神学
 - **辛克莱·福格森 (Sinclair Ferguson)**：《基督徒生命》（The Christian Life）
+- **戴恩·奥特伦 (Dane Ortlund)**：《柔和谦卑》📖 [导读](guides/柔和谦卑.md)
+- **理查德·洛普雷斯 (Richard Lovelace)**：《属灵生命的动力》📖 [导读](guides/属灵生命的动力.md)
+- **弗朗西斯·薛华 (Francis Schaeffer)**：《属灵的真义》📖 [导读](guides/属灵的真义.md)
+- **迈克·麦金利 (Mike McKinley)**：《我真的是基督徒吗？》📖 [导读](guides/我真的是基督徒吗.md)
+- **庄斯顿 / 万迪克**：《普世宣教手册》（Operation World）📖 [导读](guides/普世宣教手册.md)
 
 ## 系统神学与教义（Systematic Theology）
 
@@ -192,7 +239,9 @@
 - John Owen：《对罪的治死》
 - Jonathan Edwards：《宗教情感》 📥 [本仓库下载](《宗教情操真伪辨》-%20爱德华兹.pdf)
 - John Bunyan：《天路历程》 📥 [本仓库下载](《天路历程》-%20约翰·班扬.epub)
-- J.C. Ryle：《圣洁》（Holiness）、《父母的责任》📥 [下载](《父母的责任》-%20莱尔.pdf)
+- J.C. Ryle：《圣洁》📖 [导读](guides/圣洁.md)、《父母的责任》📥 [下载](《父母的责任》-%20莱尔.pdf) · 📖 [导读](guides/父母的责任.md)
+- Richard Sibbes：《压伤的芦苇》📖 [导读](guides/压伤的芦苇.md)
+- Dane Ortlund：《柔和谦卑》📖 [导读](guides/柔和谦卑.md)
 - A.W. Tozer：《渴慕神》 📥 [本仓库下载](《渴慕神》-%20陶恕.pdf)
 - Matthew McCullough：《勿忘死：通往永生盼望的惊人道路》 📥 [本仓库下载](《勿忘死：通往永生盼望的惊人道路》-%20马修·麦克劳.pdf)
 - Tony Reinke：《大阅读家》（Lit! A Christian Guide to Reading Books） 📥 [本仓库下载](《大阅读家》-%20托尼·莱因克.pdf)
@@ -204,7 +253,7 @@
 
 ## 其他推荐类别
 
-- **护教学与文化**：C.S. Lewis《返璞归真》（Mere Christianity）、《魔鬼家书》📥 [本仓库下载](《魔鬼家书》-%20C.S.路易斯.pdf)、Tim Keller 作品
+- **护教学与文化**：C.S. Lewis《返璞归真》📥 [下载](《返璞归真》-%20C.S.路易斯.pdf) · 📖 [导读](guides/返璞归真.md)、《魔鬼家书》📥 [本仓库下载](《魔鬼家书》-%20C.S.路易斯.pdf) · 📖 [导读](guides/魔鬼家书.md)、James Sire《别有洞天》📖 [导读](guides/别有洞天.md)、Francis Schaeffer《属灵的真义》📖 [导读](guides/属灵的真义.md)、Tim Keller 作品
 - **教会历史**：宗教改革相关传记（如加尔文、路德生平）
 - **祈祷与灵修**：Arthur T. Pierson 或 Puritan 祈祷经典
 - **传记**：George Marsden《乔纳森·爱德华兹传》、Arnold Dallimore《怀特腓传》等
@@ -277,7 +326,7 @@
 
 ## 阅读建议
 
-1. **入门级**：从《认识神》（Packer）📥 [下载](《认识神》-%20巴刻.pdf)、《渴慕神》（Tozer）📥 [下载](《渴慕神》-%20陶恕.pdf)、《天路历程》📥 [下载](《天路历程》-%20约翰·班扬.epub) 开始。
+1. **入门级**：从《认识神》（Packer）📥 [下载](《认识神》-%20巴刻.pdf)、《渴慕神》（Tozer）📥 [下载](《渴慕神》-%20陶恕.pdf)、《返璞归真》（Lewis）📥 [下载](《返璞归真》-%20C.S.路易斯.pdf)、《天路历程》📥 [下载](《天路历程》-%20约翰·班扬.epub) 开始。
 2. **进深级**：阅读加尔文《基督教要义》📥 [下载](《基督教要义》-%20加尔文.pdf)、巴文克《改革宗教义学》、欧文作品。
 3. **每日灵修**：搭配《为爱上帝》（Carson）或 ESV Study Bible，结合上述读经计划。
 4. **建议顺序**：先读易懂的当代作品，再进入经典原著。
