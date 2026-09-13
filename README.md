@@ -34,11 +34,14 @@
 | 11 | 勿忘死：通往永生盼望的惊人道路 | 马修·麦克劳 (Matthew McCullough) | PDF | [下载](《勿忘死：通往永生盼望的惊人道路》-%20马修·麦克劳.pdf) | [简介与目录](guides/勿忘死.md) |
 | 12 | 大阅读家 | 托尼·莱因克 (Tony Reinke) | PDF | [下载](《大阅读家》-%20托尼·莱因克.pdf) | [简介与目录](guides/大阅读家.md) |
 | 13 | 婚姻治愈指南 | 保罗·区普 (Paul David Tripp) | PDF | [下载](《婚姻治愈指南》-%20保罗·区普.pdf) | [简介与目录](guides/婚姻治愈指南.md) |
-| 14 | 父母的责任 | J.C. 莱尔 (J.C. Ryle) | PDF | [下载](《父母的责任》-%20莱尔.pdf) | [简介与目录](guides/父母的责任.md) |
-| 15 | 圣灵论 | 约翰·欧文 (John Owen) | PDF | [下载](《圣灵论》-%20约翰·欧文.pdf) | [简介与目录](guides/圣灵论.md) |
-| 16 | 圣灵论（繁体） | 约翰·欧文 (John Owen) | PDF | [下载](《圣灵论（繁体）》-%20约翰·欧文.pdf) | 同 [圣灵论](guides/圣灵论.md) |
-| 17 | 摩根解经丛卷·希伯来书 | 坎伯·摩根 (G. Campbell Morgan) | PDF | [下载](《摩根解经丛卷·希伯来书》-%20坎伯·摩根.pdf) | （解经书，不写导读） |
-| 18 | 希伯来书注释 | 约翰·加尔文 (John Calvin) | PDF | [下载](《希伯来书注释》-%20加尔文.pdf) | （解经书，不写导读） |
+| 14 | 父母之道 | 保罗·区普 (Paul David Tripp) | PDF | [下载](《父母之道》-%20保罗·区普.pdf) | [简介与目录](guides/父母之道.md) |
+| 15 | 青春的契机 | 保罗·区普 (Paul David Tripp) | PDF | [下载](《青春的契机》-%20保罗·区普.pdf) | [简介与目录](guides/青春的契机.md) |
+| 16 | 父母的责任 | J.C. 莱尔 (J.C. Ryle) | PDF | [下载](《父母的责任》-%20莱尔.pdf) | [简介与目录](guides/父母的责任.md) |
+| 17 | 圣灵论 | 约翰·欧文 (John Owen) | PDF | [下载](《圣灵论》-%20约翰·欧文.pdf) | [简介与目录](guides/圣灵论.md) |
+| 18 | 圣灵论（繁体） | 约翰·欧文 (John Owen) | PDF | [下载](《圣灵论（繁体）》-%20约翰·欧文.pdf) | 同 [圣灵论](guides/圣灵论.md) |
+| 19 | 治死信徒身上的罪 | 约翰·欧文 (John Owen) | PDF | [下载](《治死信徒身上的罪》-%20约翰·欧文.pdf) | [简介与目录](guides/对罪的治死.md) |
+| 20 | 摩根解经丛卷·希伯来书 | 坎伯·摩根 (G. Campbell Morgan) | PDF | [下载](《摩根解经丛卷·希伯来书》-%20坎伯·摩根.pdf) | （解经书，不写导读） |
+| 21 | 希伯来书注释 | 约翰·加尔文 (John Calvin) | PDF | [下载](《希伯来书注释》-%20加尔文.pdf) | （解经书，不写导读） |
 
 ## 书籍简介与目录（guides）
 
@@ -54,6 +57,7 @@
 | 保守你心 | 约翰·弗拉维尔 | [guides/保守你心.md](guides/保守你心.md) |
 | 得胜的祷告：什么拦阻了它？ | 慕迪 | [guides/得胜的祷告.md](guides/得胜的祷告.md) |
 | 因信称义 | 约翰·欧文 | [guides/因信称义.md](guides/因信称义.md) |
+| 胜过罪与试探 | 约翰·欧文 | [guides/胜过罪与试探.md](guides/胜过罪与试探.md) |
 | 圣洁 | 莱尔 | [guides/圣洁.md](guides/圣洁.md) |
 | 别有洞天 | 雅各・瑟尼 | [guides/别有洞天.md](guides/别有洞天.md) |
 | 救赎：它的意义及重要性 | 莱昂·莫里斯 | [guides/救赎.md](guides/救赎.md) |
@@ -115,7 +119,8 @@
 - **《圣灵论》（Pneumatologia / A Discourse Concerning the Holy Spirit）** —— 清教徒圣灵神学的巅峰之作 📥 [简体下载](《圣灵论》-%20约翰·欧文.pdf) | [繁体下载](《圣灵论（繁体）》-%20约翰·欧文.pdf) · 📖 [导读](guides/圣灵论.md)
 - **《因信称义》（The Doctrine of Justification by Faith）** 📖 [导读](guides/因信称义.md)
 - **《基督的荣耀》（The Glory of Christ）**
-- **《对罪的治死》（The Mortification of Sin）** —— 经典敬虔之作
+- **《治死信徒身上的罪》（The Mortification of Sin / 亦作《对罪的治死》）** —— 释罗马书 8:13 的成圣短论 📥 [本仓库下载](《治死信徒身上的罪》-%20约翰·欧文.pdf) · 📖 [导读](guides/对罪的治死.md)
+- **《胜过罪与试探》（Overcoming Sin and Temptation）** —— 橡树赵刚译本；含治死罪、论试探、内住之罪三部 📖 [导读](guides/胜过罪与试探.md)
 - **《死亡之死》（The Death of Death in the Death of Christ）** —— 论有限代赎
 
 ### 赫尔曼·巴文克 (Herman Bavinck, 1854–1921)
@@ -190,7 +195,9 @@
 
 ### 保罗·区普 (Paul David Tripp)
 
-- **《婚姻治愈指南》（What Did You Expect?）** —— 以福音为中心的婚姻辅导 📥 [本仓库下载](《婚姻治愈指南》-%20保罗·区普.pdf)
+- **《婚姻治愈指南》（What Did You Expect?）** —— 以福音为中心的婚姻辅导 📥 [本仓库下载](《婚姻治愈指南》-%20保罗·区普.pdf) · 📖 [导读](guides/婚姻治愈指南.md)
+- **《父母之道》（Parenting）** —— 十四项福音原则，把父母从拥有者改写为使者 📥 [本仓库下载](《父母之道》-%20保罗·区普.pdf) · 📖 [导读](guides/父母之道.md)
+- **《青春的契机》（Age of Opportunity）** —— 辅导青少年的圣经原则 📥 [本仓库下载](《青春的契机》-%20保罗·区普.pdf) · 📖 [导读](guides/青春的契机.md)
 - **《危机四伏的呼召》（Dangerous Calling）** —— 正视牧师事工中的试探与挣扎
 
 ### 托尼·莱因克 (Tony Reinke)
@@ -236,7 +243,7 @@
 ## 基督徒生活与敬虔（Christian Living & Devotion）
 
 - Jerry Bridges：《敬虔的追求》（The Pursuit of Holiness）
-- John Owen：《对罪的治死》
+- John Owen：《治死信徒身上的罪》📥 [下载](《治死信徒身上的罪》-%20约翰·欧文.pdf) · 📖 [导读](guides/对罪的治死.md)、《胜过罪与试探》（三部合集）📖 [导读](guides/胜过罪与试探.md)
 - Jonathan Edwards：《宗教情感》 📥 [本仓库下载](《宗教情操真伪辨》-%20爱德华兹.pdf)
 - John Bunyan：《天路历程》 📥 [本仓库下载](《天路历程》-%20约翰·班扬.epub)
 - J.C. Ryle：《圣洁》📖 [导读](guides/圣洁.md)、《父母的责任》📥 [下载](《父母的责任》-%20莱尔.pdf) · 📖 [导读](guides/父母的责任.md)
@@ -248,8 +255,10 @@
 
 ## 婚姻与家庭（Marriage & Family）
 
-- Paul David Tripp：**《婚姻治愈指南》（What Did You Expect?）** —— 以福音为中心的婚姻辅导 📥 [本仓库下载](《婚姻治愈指南》-%20保罗·区普.pdf)
-- J.C. Ryle：**《父母的责任》（The Duties of Parents）** —— 敬虔养育儿女的17条忠告 📥 [本仓库下载](《父母的责任》-%20莱尔.pdf)
+- Paul David Tripp：**《婚姻治愈指南》（What Did You Expect?）** —— 以福音为中心的婚姻辅导 📥 [本仓库下载](《婚姻治愈指南》-%20保罗·区普.pdf) · 📖 [导读](guides/婚姻治愈指南.md)
+- Paul David Tripp：**《父母之道》（Parenting）** —— 十四项福音原则，把父母从拥有者改写为使者 📥 [本仓库下载](《父母之道》-%20保罗·区普.pdf) · 📖 [导读](guides/父母之道.md)
+- Paul David Tripp：**《青春的契机》（Age of Opportunity）** —— 辅导青少年的圣经原则 📥 [本仓库下载](《青春的契机》-%20保罗·区普.pdf) · 📖 [导读](guides/青春的契机.md)
+- J.C. Ryle：**《父母的责任》（The Duties of Parents）** —— 敬虔养育儿女的17条忠告 📥 [本仓库下载](《父母的责任》-%20莱尔.pdf) · 📖 [导读](guides/父母的责任.md)
 
 ## 其他推荐类别
 
