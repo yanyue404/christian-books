@@ -40,8 +40,13 @@
 | 17 | 圣灵论 | 约翰·欧文 (John Owen) | PDF | [下载](《圣灵论》-%20约翰·欧文.pdf) | [简介与目录](guides/圣灵论.md) |
 | 18 | 圣灵论（繁体） | 约翰·欧文 (John Owen) | PDF | [下载](《圣灵论（繁体）》-%20约翰·欧文.pdf) | 同 [圣灵论](guides/圣灵论.md) |
 | 19 | 治死信徒身上的罪 | 约翰·欧文 (John Owen) | PDF | [下载](《治死信徒身上的罪》-%20约翰·欧文.pdf) | [简介与目录](guides/对罪的治死.md) |
-| 20 | 摩根解经丛卷·希伯来书 | 坎伯·摩根 (G. Campbell Morgan) | PDF | [下载](《摩根解经丛卷·希伯来书》-%20坎伯·摩根.pdf) | （解经书，不写导读） |
-| 21 | 希伯来书注释 | 约翰·加尔文 (John Calvin) | PDF | [下载](《希伯来书注释》-%20加尔文.pdf) | （解经书，不写导读） |
+| 20 | 胜过罪与试探 | 约翰·欧文 (John Owen) | PDF | [下载](《胜过罪与试探》-%20约翰·欧文.pdf) | [简介与目录](guides/胜过罪与试探.md) |
+| 21 | 试探、治死罪 | 约翰·欧文 (John Owen) | EPUB | [下载](《试探、治死罪》-%20约翰·欧文.epub) | 同 [胜过罪与试探](guides/胜过罪与试探.md) 前两部 |
+| 22 | 忏悔录 | 希波的奥古斯丁 (Augustine of Hippo) | PDF | [下载](《忏悔录》-%20奥古斯丁.pdf) | [简介与目录](guides/忏悔录.md) |
+| 23 | 属灵的真义 | 弗朗西斯·薛华 (Francis A. Schaeffer) | PDF | [下载](《属灵的真义》-%20弗朗西斯·薛华.pdf) | [简介与目录](guides/属灵的真义.md) |
+| 24 | 我真的是基督徒吗？ | 迈克·麦金利 (Mike McKinley) | PDF | [下载](《我真的是基督徒吗？》-%20迈克·麦金利.pdf) | [简介与目录](guides/我真的是基督徒吗.md) |
+| 25 | 摩根解经丛卷·希伯来书 | 坎伯·摩根 (G. Campbell Morgan) | PDF | [下载](《摩根解经丛卷·希伯来书》-%20坎伯·摩根.pdf) | （解经书，不写导读） |
+| 26 | 希伯来书注释 | 约翰·加尔文 (John Calvin) | PDF | [下载](《希伯来书注释》-%20加尔文.pdf) | （解经书，不写导读） |
 
 ## 书籍简介与目录（guides）
 
@@ -49,7 +54,6 @@
 
 | 书名 | 作者 | 导读 |
 |------|------|------|
-| 忏悔录 | 奥古斯丁 | [guides/忏悔录.md](guides/忏悔录.md) |
 | 上帝之城 | 奥古斯丁 | [guides/上帝之城.md](guides/上帝之城.md) |
 | 爱与爱的果实 | 约拿单·爱德华兹 | [guides/爱与爱的果实.md](guides/爱与爱的果实.md) |
 | 压伤的芦苇 | 薛伯斯 | [guides/压伤的芦苇.md](guides/压伤的芦苇.md) |
@@ -57,19 +61,16 @@
 | 保守你心 | 约翰·弗拉维尔 | [guides/保守你心.md](guides/保守你心.md) |
 | 得胜的祷告：什么拦阻了它？ | 慕迪 | [guides/得胜的祷告.md](guides/得胜的祷告.md) |
 | 因信称义 | 约翰·欧文 | [guides/因信称义.md](guides/因信称义.md) |
-| 胜过罪与试探 | 约翰·欧文 | [guides/胜过罪与试探.md](guides/胜过罪与试探.md) |
 | 圣洁 | 莱尔 | [guides/圣洁.md](guides/圣洁.md) |
 | 别有洞天 | 雅各・瑟尼 | [guides/别有洞天.md](guides/别有洞天.md) |
 | 救赎：它的意义及重要性 | 莱昂·莫里斯 | [guides/救赎.md](guides/救赎.md) |
 | 属灵生命的动力 | 理查德·洛普雷斯 | [guides/属灵生命的动力.md](guides/属灵生命的动力.md) |
 | 柔和谦卑 | 戴恩·奥特伦 | [guides/柔和谦卑.md](guides/柔和谦卑.md) |
-| 属灵的真义 | 薛华 | [guides/属灵的真义.md](guides/属灵的真义.md) |
 | 人之废 | C. S. 路易斯 | [guides/人之废.md](guides/人之废.md) |
 | 荣耀之重 | C. S. 路易斯 | [guides/荣耀之重.md](guides/荣耀之重.md) |
 | 稀世珍宝 | 耶利米·巴罗夫 | [guides/稀世珍宝.md](guides/稀世珍宝.md) |
 | 殉道史 | 约翰·福克斯 | [guides/殉道史.md](guides/殉道史.md) |
 | 普世宣教手册 | 庄斯顿 / 万迪克 | [guides/普世宣教手册.md](guides/普世宣教手册.md) |
-| 我真的是基督徒吗？ | 迈克·麦金利 | [guides/我真的是基督徒吗.md](guides/我真的是基督徒吗.md) |
 
 完整索引见 [guides/README.md](guides/README.md)。
 
@@ -93,7 +94,7 @@
 
 ### 希波的奥古斯丁 (Augustine of Hippo, 354–430)
 
-- **《忏悔录》（Confessions）** —— 认罪与称颂上帝的属灵自传 📖 [导读](guides/忏悔录.md)
+- **《忏悔录》（Confessions）** —— 认罪与称颂上帝的属灵自传 📥 [本仓库下载](《忏悔录》-%20奥古斯丁.pdf) · 📖 [导读](guides/忏悔录.md)
 - **《上帝之城》（The City of God）** —— 两座城的起源、历程与结局 📖 [导读](guides/上帝之城.md)
 
 ### 约翰·加尔文 (John Calvin, 1509–1564)
@@ -120,7 +121,8 @@
 - **《因信称义》（The Doctrine of Justification by Faith）** 📖 [导读](guides/因信称义.md)
 - **《基督的荣耀》（The Glory of Christ）**
 - **《治死信徒身上的罪》（The Mortification of Sin / 亦作《对罪的治死》）** —— 释罗马书 8:13 的成圣短论 📥 [本仓库下载](《治死信徒身上的罪》-%20约翰·欧文.pdf) · 📖 [导读](guides/对罪的治死.md)
-- **《胜过罪与试探》（Overcoming Sin and Temptation）** —— 橡树赵刚译本；含治死罪、论试探、内住之罪三部 📖 [导读](guides/胜过罪与试探.md)
+- **《胜过罪与试探》（Overcoming Sin and Temptation）** —— 橡树赵刚译本；含治死罪、论试探、内住之罪三部 📥 [本仓库下载](《胜过罪与试探》-%20约翰·欧文.pdf) · 📖 [导读](guides/胜过罪与试探.md)
+- **《试探、治死罪》** —— 易铭译本，只收试探与治死罪 📥 [本仓库下载](《试探、治死罪》-%20约翰·欧文.epub)
 - **《死亡之死》（The Death of Death in the Death of Christ）** —— 论有限代赎
 
 ### 赫尔曼·巴文克 (Herman Bavinck, 1854–1921)
@@ -212,8 +214,8 @@
 - **辛克莱·福格森 (Sinclair Ferguson)**：《基督徒生命》（The Christian Life）
 - **戴恩·奥特伦 (Dane Ortlund)**：《柔和谦卑》📖 [导读](guides/柔和谦卑.md)
 - **理查德·洛普雷斯 (Richard Lovelace)**：《属灵生命的动力》📖 [导读](guides/属灵生命的动力.md)
-- **弗朗西斯·薛华 (Francis Schaeffer)**：《属灵的真义》📖 [导读](guides/属灵的真义.md)
-- **迈克·麦金利 (Mike McKinley)**：《我真的是基督徒吗？》📖 [导读](guides/我真的是基督徒吗.md)
+- **弗朗西斯·薛华 (Francis Schaeffer)**：《属灵的真义》📥 [下载](《属灵的真义》-%20弗朗西斯·薛华.pdf) · 📖 [导读](guides/属灵的真义.md)
+- **迈克·麦金利 (Mike McKinley)**：《我真的是基督徒吗？》📥 [下载](《我真的是基督徒吗？》-%20迈克·麦金利.pdf) · 📖 [导读](guides/我真的是基督徒吗.md)
 - **庄斯顿 / 万迪克**：《普世宣教手册》（Operation World）📖 [导读](guides/普世宣教手册.md)
 
 ## 系统神学与教义（Systematic Theology）
@@ -243,7 +245,7 @@
 ## 基督徒生活与敬虔（Christian Living & Devotion）
 
 - Jerry Bridges：《敬虔的追求》（The Pursuit of Holiness）
-- John Owen：《治死信徒身上的罪》📥 [下载](《治死信徒身上的罪》-%20约翰·欧文.pdf) · 📖 [导读](guides/对罪的治死.md)、《胜过罪与试探》（三部合集）📖 [导读](guides/胜过罪与试探.md)
+- John Owen：《治死信徒身上的罪》📥 [下载](《治死信徒身上的罪》-%20约翰·欧文.pdf) · 📖 [导读](guides/对罪的治死.md)、《胜过罪与试探》（三部合集）📥 [下载](《胜过罪与试探》-%20约翰·欧文.pdf) · 📖 [导读](guides/胜过罪与试探.md)
 - Jonathan Edwards：《宗教情感》 📥 [本仓库下载](《宗教情操真伪辨》-%20爱德华兹.pdf)
 - John Bunyan：《天路历程》 📥 [本仓库下载](《天路历程》-%20约翰·班扬.epub)
 - J.C. Ryle：《圣洁》📖 [导读](guides/圣洁.md)、《父母的责任》📥 [下载](《父母的责任》-%20莱尔.pdf) · 📖 [导读](guides/父母的责任.md)
@@ -262,7 +264,7 @@
 
 ## 其他推荐类别
 
-- **护教学与文化**：C.S. Lewis《返璞归真》📥 [下载](《返璞归真》-%20C.S.路易斯.pdf) · 📖 [导读](guides/返璞归真.md)、《魔鬼家书》📥 [本仓库下载](《魔鬼家书》-%20C.S.路易斯.pdf) · 📖 [导读](guides/魔鬼家书.md)、James Sire《别有洞天》📖 [导读](guides/别有洞天.md)、Francis Schaeffer《属灵的真义》📖 [导读](guides/属灵的真义.md)、Tim Keller 作品
+- **护教学与文化**：C.S. Lewis《返璞归真》📥 [下载](《返璞归真》-%20C.S.路易斯.pdf) · 📖 [导读](guides/返璞归真.md)、《魔鬼家书》📥 [本仓库下载](《魔鬼家书》-%20C.S.路易斯.pdf) · 📖 [导读](guides/魔鬼家书.md)、James Sire《别有洞天》📖 [导读](guides/别有洞天.md)、Francis Schaeffer《属灵的真义》📥 [下载](《属灵的真义》-%20弗朗西斯·薛华.pdf) · 📖 [导读](guides/属灵的真义.md)、Tim Keller 作品
 - **教会历史**：宗教改革相关传记（如加尔文、路德生平）
 - **祈祷与灵修**：Arthur T. Pierson 或 Puritan 祈祷经典
 - **传记**：George Marsden《乔纳森·爱德华兹传》、Arnold Dallimore《怀特腓传》等

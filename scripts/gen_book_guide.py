@@ -60,6 +60,8 @@ KNOWN_EN_TITLES = {
     "对罪的治死": "Of the Mortification of Sin in Believers",
     "治死信徒身上的罪": "Of the Mortification of Sin in Believers",
     "胜过罪与试探": "Overcoming Sin and Temptation",
+    "试探、治死罪": "Of Temptation / Of the Mortification of Sin in Believers",
+    "试探·治死罪": "Of Temptation / Of the Mortification of Sin in Believers",
     "别有洞天：基督徒与现代思潮之比较": "The Universe Next Door",
     "救赎：它的意义及重要性": "The Atonement: Its Meaning and Significance",
     "圣洁：它的本质、阻拦、困难、及根源": "Holiness: Its Nature, Hindrances, Difficulties, and Roots",
@@ -106,6 +108,7 @@ KNOWN_AUTHORS_EN = {
     "理查德·洛普雷斯": "Richard F. Lovelace",
     "戴恩·奥特伦": "Dane Ortlund",
     "薛华": "Francis Schaeffer",
+    "弗朗西斯·薛华": "Francis Schaeffer",
     "巴罗夫": "Jeremiah Burroughs",
     "耶利米·巴罗夫": "Jeremiah Burroughs",
     "约翰·福克斯": "John Foxe",
@@ -115,7 +118,7 @@ KNOWN_AUTHORS_EN = {
 USER_AGENT = "christian-books-guide/1.0 (+https://github.com/yanyue404/christian-books)"
 SKIP_HINTS = ("电影", "电视剧", "動畫", "动画", "film", "TV series", "album", "消歧")
 COMMENTARY = ("注释", "解经", "释经", "讲章")
-SKIP_TITLES = {"希伯来书注释", "摩根解经丛卷·希伯来书", "圣灵论（繁体）"}
+SKIP_TITLES = {"希伯来书注释", "摩根解经丛卷·希伯来书", "圣灵论（繁体）", "试探、治死罪"}
 
 PREFERRED_SITES = (
     "ivpress.com",
